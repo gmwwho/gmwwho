@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gmwwho
+- 👀 I’m interested in Python, GIS for ArcGis Pro + QGIS, sUAS flight, and SQL
+- 🌱 I’m currently learning just about everything: intermediate Python, pandas/ numpy/ matplotlib
+- 💞️ I’m looking to get a mentorship for programming for GIS and drone flight. In school for a GIS certificate now.
