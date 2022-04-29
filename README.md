@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @gmwwho
-- 👀 I’m interested in Python, GIS for ArcGis Pro + QGIS, sUAS flight, and SQL
-- 🌱 I’m currently learning intermediate Python, ArcPy/pandas + Geopandas/ numpy/ matplotlib/ some CV2, PostGreSQL + PostGIS
-- 💞️ Presently working as a GIS tech, expanding my skills in CADD, programming, and GIS.
+- 👀 I’m interested in SQL and Python for GIS, LiDAR processing, and creating workflows
+- 🌱 I’m currently learning intermediate Python, PDAL, ArcPy, Spatial SQL, Geopandas
+- 💞️ Presently working as a Lidar tech, expanding my skills in CADD, scripting, and all things point cloud.
+
 - My current projects are:
-1) programming DJI Tello drone for planned flight paths, manual control, and face tracking.
-2) developing tools in Python and ArcPy which can be imported into ArcGIS Pro
-3) working on small, fun projects in Python
+1) working through PDAL tutorials to better understand the workflow I use professionally
+2) developing Python and bash scipts to automate processes, generally within ArcMap
+3) automating drone flight paths in Python
+4) continually learning about the complexities of airborne lidar collection 
